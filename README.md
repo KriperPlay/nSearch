@@ -1,4 +1,6 @@
 # nSearch
+![logo](https://github.com/KriperPlay/nSearch/assets/92634754/b01edb30-656c-4e27-9df6-94ad047c04dd)
+
 ```// nSearch might be Google's killer, but it's much better...```
 # About
 
